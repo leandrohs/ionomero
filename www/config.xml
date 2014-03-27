@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>OdontoHelp - Oclusão</name>
+    <name>OH - CIV</name>
     <description>
-        Compêndio de Oclusão Dental
+        Compêndio de Cimento de Ionômero de Vidro
     </description>
     <author email="leandro_h_silva@yahoo.com.br" href="www.facebook.com.br/lecocolin">
         Leandro Henrique da Silva
-		Rafael Nobre de Lima Santos
-    </author>
+	</author>
 	<feature name="http://api.phonegap.com/1.0/device" />
 	<gap:platform name="android" />
     <gap:platform name="winphone" />
